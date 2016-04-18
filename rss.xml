@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Running Pillow]]></title>
         <description><![CDATA[Running Pillow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/running-pillow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 12:43:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 12:51:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/running-pillow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dungeon Loot]]></title>
+            <description><![CDATA[<article><h1>Dungeon Loot</h1><h2>Unique & addictive casual roguelike dungeon crawler!</h2><p>How deep into the dungeon will you venture? Explore endless dungeons and fight your way to treasure through hordes of monsters eager to eat you for breakfast! Dungeon Loot is a very simple to learn and play engaging roguelike dungeon crawler. Level up your character, hunt for treasure and, above all, survive as long as you can. The deeper you get into the dungeon the better rewards for you!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99f8eebe2fea0c163cff6d0c705316fa11239962.jpg"></article>]]></description>
+            <link>https://thegrid.ai/running-pillow/dungeon-loot/index.html</link>
+            <guid isPermaLink="false">fba12f2d-2367-4623-a597-ee3ec3d3f4aa</guid>
+            <pubDate>Mon, 18 Apr 2016 12:50:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deck Warlords]]></title>
             <description><![CDATA[<article><h1>Deck Warlords</h1><h2>TCG (Trading Card Game)</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4140812290a56a56efb5f245f718ce716ee4ba73.png"></article>]]></description>
-            <link>undefineddeck-warlords/index.html</link>
+            <link>https://thegrid.ai/running-pillow/deck-warlords/index.html</link>
             <guid isPermaLink="false">2267bb2f-bbca-488d-a179-4831f82297e3</guid>
             <pubDate>Mon, 18 Apr 2016 12:42:42 GMT</pubDate>
         </item>
