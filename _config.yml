@@ -1,6 +1,6 @@
 name: Running Pillow
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.35032
 title: Running Pillow
 cta:
@@ -23,7 +23,7 @@ color:
     - '#2b2a29'
     - '#616161'
   brandStrength: 0.25
-  lightness: 0.2564254708122462
-  saturation: 0.3600255907513201
-  rhythmicContrast: 0.15667081205174327
+  lightness: 0.375
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
