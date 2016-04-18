@@ -1,0 +1,28 @@
+name: Running Pillow
+favicon: null
+layout_spectrum: 0.18328903731890023
+typography_spectrum: 0.7508099284023046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1315744207240641
+  lightness: 0.2564254708122462
+  saturation: 0.3600255907513201
+  rhythmicContrast: 0.15667081205174327
+purpose: []
