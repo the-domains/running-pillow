@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Running Pillow]]></title>
+        <description><![CDATA[Running Pillow]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Apr 2016 12:43:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deck Warlords]]></title>
+            <description><![CDATA[<article><h1>Deck Warlords</h1><h2>TCG (Trading Card Game)</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4140812290a56a56efb5f245f718ce716ee4ba73.png"></article>]]></description>
+            <link>undefineddeck-warlords/index.html</link>
+            <guid isPermaLink="false">2267bb2f-bbca-488d-a179-4831f82297e3</guid>
+            <pubDate>Mon, 18 Apr 2016 12:42:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
