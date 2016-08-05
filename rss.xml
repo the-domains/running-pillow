@@ -4,8 +4,15 @@
         <description><![CDATA[Running Pillow]]></description>
         <link>https://thegrid.ai/running-pillow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 13:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 14:48:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/running-pillow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello everyone! This is test post</p>]]></description>
+            <link>https://thegrid.ai/running-pillow/hello-everyone-this-is-test-post/index.html</link>
+            <guid isPermaLink="false">02e90dec-ca29-4bec-b23e-626a56540717</guid>
+            <pubDate>Fri, 05 Aug 2016 14:48:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Card Lords]]></title>
             <description><![CDATA[<article><h1>Card Lords</h1><p>Construct your dream deck with an amazing hoard of magical Creatures and Heroes in trading card game (TGC). Dozens of cards to collect with various qualities and abilities. Easy to pick gameplay with deep strategy ensured! Challenge yourself and other players in PvP Arena and try to be the best TCG card collector!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5eb7fad1-9256-49d8-bcaa-dabc5c875c04.jpg"></article>]]></description>
